@@ -1,0 +1,3 @@
+This is the lab1 for CS302 at SUSTech.
+
+The shell script is used to mimic the 'tree' command in linux and would show files and directories by BFS.
